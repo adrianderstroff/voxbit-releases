@@ -6,15 +6,15 @@
 Build blocks and characters voxel by voxel, paint maps, add dialogs and music, and play your game right away.
 
 <p align="center">
+<img src="assets/screenshot.png" width="820" alt="Playing a beach level in the Voxbit editor">
+</p>
+
+<p align="center">
 <a href="https://github.com/adrianderstroff/voxbit-releases/releases/latest/download/Voxbit-Editor-Windows.zip"><img src="assets/download-editor.svg" alt="Download the editor for Windows" height="56"></a>
 &nbsp;
 <a href="https://github.com/adrianderstroff/voxbit-releases/releases/latest/download/Voxbit-Player-Windows.zip"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/download-player-dark.svg"><img src="assets/download-player-light.svg" alt="Download the player for Windows" height="56"></picture></a>
 &nbsp;
 <a href="https://adrianhasa.blog/misc/2026-09-voxbit/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/web-editor-dark.svg"><img src="assets/web-editor-light.svg" alt="Open the web editor" height="56"></picture></a>
-</p>
-
-<p align="center">
-<img src="assets/screenshot.png" width="820" alt="Playing a beach level in the Voxbit editor">
 </p>
 
 ---
