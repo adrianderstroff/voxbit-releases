@@ -36,7 +36,7 @@ The buttons above always get the newest build. Older builds are on the [releases
 | | What it is | How to start it |
 |---|---|---|
 | **Voxbit-Editor-Windows.zip** | The editor | Unzip it and start `Voxbit Editor.exe` |
-| **Voxbit-Player-Windows.zip** | The player, with a demo game | Unzip it and start `Voxbit Player.exe` |
+| **Voxbit-Player-Windows.zip** | The player, with a small scene to walk around in | Unzip it and start `Voxbit Player.exe` |
 
 **Requirements:** Windows 10 or 11 (64-bit) with WebView2 (part of Windows 11) and a graphics card with WebGPU support.
 
@@ -46,7 +46,7 @@ The buttons above always get the newest build. Older builds are on the [releases
 ## Ship your own game
 
 1. In the editor, choose **File → Export game…**. This saves a `.voxbit` file with everything the game needs.
-2. Put it next to `Voxbit Player.exe` as `game.voxbit` (replace the demo), zip the folder and share it.
+2. Put it next to `Voxbit Player.exe` as `game.voxbit` (replacing the scene that comes with it), zip the folder and share it.
 
 Players can also drop any `.voxbit` file onto the player window.
 
