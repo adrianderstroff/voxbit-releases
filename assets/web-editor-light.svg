@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="292" height="56" viewBox="0 0 292 56">
+  <rect x="1" y="1" width="290" height="54" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
+  <g fill="none" stroke="#24292f" stroke-width="2.2"><circle cx="28" cy="28" r="10"/><path d="M18 28h20M28 18c-4 3-4 17 0 20M28 18c4 3 4 17 0 20"/></g>
+  <text x="52" y="25" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#24292f">Open the web editor</text>
+  <text x="52" y="43" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#57606a">Runs in your browser, nothing to install</text>
+</svg>

@@ -7,16 +7,18 @@
 **A voxel editor and engine for 3D platformers.**
 Build blocks and characters voxel by voxel, paint maps, add dialogs and music, and play your game right away.
 
-[![Latest release](https://img.shields.io/github/v/release/adrianderstroff/voxbit-releases?label=latest&color=f5c518&style=for-the-badge)](https://github.com/adrianderstroff/voxbit-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/adrianderstroff/voxbit-releases/total?color=555&style=for-the-badge)](https://github.com/adrianderstroff/voxbit-releases/releases)
+[![Latest release](https://img.shields.io/github/v/release/adrianderstroff/voxbit-releases?label=latest&color=f5c518&style=flat-square)](https://github.com/adrianderstroff/voxbit-releases/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/adrianderstroff/voxbit-releases/total?color=555&style=flat-square)](https://github.com/adrianderstroff/voxbit-releases/releases)
 
 <br>
 
-[![Download the editor](https://img.shields.io/badge/Download-Editor%20for%20Windows-f5c518?style=for-the-badge&logo=windows&logoColor=black&labelColor=f5c518)](https://github.com/adrianderstroff/voxbit-releases/releases/latest/download/Voxbit-Editor-Windows.zip)
+<a href="https://github.com/adrianderstroff/voxbit-releases/releases/latest/download/Voxbit-Editor-Windows.zip"><img src="assets/download-editor.svg" alt="Download the editor for Windows" height="56"></a>
 &nbsp;
-[![Download the player](https://img.shields.io/badge/Download-Player%20for%20Windows-2b2f36?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/adrianderstroff/voxbit-releases/releases/latest/download/Voxbit-Player-Windows.zip)
+<a href="https://github.com/adrianderstroff/voxbit-releases/releases/latest/download/Voxbit-Player-Windows.zip"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/download-player-dark.svg"><img src="assets/download-player-light.svg" alt="Download the player for Windows" height="56"></picture></a>
 
-[![Try it in the browser](https://img.shields.io/badge/Try%20the%20editor%20in%20your%20browser-adrianhasa.blog-4a90d9?style=flat-square)](https://adrianhasa.blog/misc/2026-09-voxbit/editor/)
+You don't have to download anything to try it: the editor also runs in your browser (Chrome or Edge).
+
+<a href="https://adrianhasa.blog/misc/2026-09-voxbit/editor/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/web-editor-dark.svg"><img src="assets/web-editor-light.svg" alt="Open the web editor" height="56"></picture></a>
 
 <br>
 

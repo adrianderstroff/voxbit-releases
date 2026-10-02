@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="236" height="56" viewBox="0 0 236 56">
+  <rect x="1" y="1" width="234" height="54" rx="12" fill="#f5c518" stroke="#f5c518" stroke-width="2"/>
+  <path d="M28 18v14m-6-6 6 6 6-6M20 37h16" fill="none" stroke="#1b1b1b" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="52" y="25" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#1b1b1b">Download Editor</text>
+  <text x="52" y="43" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#4a3f10">Windows · zip</text>
+</svg>
